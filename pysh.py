@@ -3,7 +3,7 @@ import sys
 cmdlist = ['start','exit','cd','md','ls','pd','cf','cl']
 convert = []
 waiting = 0
-print 'pysh 1.0.5 19.3.11 #6. type start to enter, exit to leave.'
+print 'pysh 1.0.5 19.03.11 #6. type start to enter, exit to leave.'
 paths = ['pysh/']
 direct = 'pysh/'
 added = []
